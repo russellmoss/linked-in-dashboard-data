@@ -1,4 +1,4 @@
-# Milea Weddings → RevOps Dashboard (Salesforce → Google Looker Studio) 💍📈
+# Weddings → RevOps Dashboard (Salesforce → Google Looker Studio) 💍📈
 
 **Author:** **Russell Moss** — <a href="mailto:russell@mileaestatevineyard.com">[russell@mileaestatevineyard.com](mailto:russell@mileaestatevineyard.com)</a>
 **Live Demo (Looker Studio):** <a href="https://lookerstudio.google.com/s/nRmeDByi1I4" target="_blank">[https://lookerstudio.google.com/s/nRmeDByi1I4](https://lookerstudio.google.com/s/nRmeDByi1I4)</a>
